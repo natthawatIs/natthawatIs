@@ -9,7 +9,7 @@
 ---
 
 - 📫 Email: natthawatisanpayu@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nattawat-isanpayu-43bb5b2a2/
+- 💼 LinkedIn: https://www.linkedin.com/in/natthawat-isanpayu-43bb5b2a2/
 
 ---
 
