@@ -1,9 +1,7 @@
 <h1 align="center">🙋🏼‍♂️ Hi, I'm Natthawat</h1>
 
 <p align="center">
-  <i>
-    On a journey to become a Fullstack Developer — passionate about JavaScript, clean code, and modern web design.
-  </i>
+  <i>On a journey to become a Backend/Fullstack Developer, driven by my passion for JavaScript, clean code, and modern web design.</i>
 </p>
 
 ---
@@ -13,7 +11,7 @@
 
 ---
 
-I'm a self-taught developer committed to building scalable and resilient applications by following industry best practices and modern backend and cloud technologies.
+I'm a developer who loves learning and exploring new tech stacks that align with organizational needs — building efficient and maintainable applications with modern backend and cloud technologies, following best practices used in the industry.
 
 ---
 
