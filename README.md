@@ -6,6 +6,7 @@
 
 ---
 
+- Personal Things: https://natthawatis.github.io/portfolio/
 - 📫 Email: natthawatisanpayu@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/natthawat-isanpayu-43bb5b2a2/
 
