@@ -46,5 +46,5 @@ I'm a developer who loves learning and exploring new tech stacks that align with
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natthawatis-dev&layout=compact&theme=radical" alt="Top programming languages used by Natthawat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natthawatIs&layout=compact&theme=radical" alt="Top programming languages used by Natthawat"/>
 </p>
